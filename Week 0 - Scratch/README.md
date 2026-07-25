@@ -23,6 +23,11 @@ A Scratch-based game where the player controls a bird, avoids obstacles, and tri
 - User input
 - Game logic
 
+## 🔗 Project Link
+
+Play the game on Scratch:
+[Sky Gem Quest](https://scratch.mit.edu/projects/1363837015)
+
 ## Submission Status
 
 ✅ Submitted to CS50  
